@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhunju</h1>
+<h1 align="center">Hi 👋, I'm Pujan</h1>
 <h3 align="center">A tech enthusiast and I want to excel in this tech realm.</h3>
 
 <h3 align="left">Connect with me:</h3>
