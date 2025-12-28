@@ -31,13 +31,19 @@
 
 ---
 
-### 📊 GitHub Stats (placeholder)
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedhunju&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://img.shields.io/github/followers/thedhunju?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/thedhunju?label=Stars&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-size/thedhunju?label=Repo%20Size&style=for-the-badge"/>
 </p>
 
-### 🧠 Most Used Languages (placeholder)
+### 🧠 Most Used Languages (from public repos)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&layout=compact&theme=dark&hide_border=true&count_private=true"/>
+  <img src="https://img.shields.io/github/languages/top/thedhunju?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/languages/count/thedhunju?style=for-the-badge"/>
 </p>
 
+---
+
+> These badges automatically update and **won’t break** if external deployments like Vercel are paused.
