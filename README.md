@@ -31,13 +31,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (placeholder)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedhunju&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thedhunju&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
 </p>
 
-### 🧠 Top Languages
+### 🧠 Most Used Languages (placeholder)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&layout=compact&theme=dark&hide_border=true&count_private=true"/>
 </p>
 
