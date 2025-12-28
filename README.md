@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/github/followers/thedhunju?label=Followers&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/thedhunju?label=Total%20Stars&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Total%20Stars-5-yellow?style=for-the-badge" alt="Total Stars"/>
   <img src="https://img.shields.io/github/repo-size/thedhunju/Uni_Find_C2C?label=Repo%20Size&style=for-the-badge" alt="Repo Size"/>
 </p>
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/thedhunju/Uni_Find_C2C?style=for-the-badge" alt="Top Language"/>
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-blue?style=for-the-badge" alt="Top Language"/>
   <img src="https://img.shields.io/github/languages/count/thedhunju?style=for-the-badge" alt="Languages Count"/>
 </p>
