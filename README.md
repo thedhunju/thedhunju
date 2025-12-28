@@ -31,11 +31,15 @@
 
 ---
 
-### 🌟 All Repo Stars
+### 📊 GitHub Stats
 <p align="center">
-  <b>uni-mart:</b> <img src="https://img.shields.io/github/stars/thedhunju/uni-mart?style=flat-square" alt="Stars"/>
-  <b>unifind-:</b> <img src="https://img.shields.io/github/stars/thedhunju/unifind-?style=flat-square" alt="Stars"/>
-  <b>Luzza-bmp:</b> <img src="https://img.shields.io/github/stars/thedhunju/Luzza-bmp?style=flat-square" alt="Stars"/>
-  <b>Mimansh-bird:</b> <img src="https://img.shields.io/github/stars/thedhunju/Mimansh-bird?style=flat-square" alt="Stars"/>
-  <b>Uni_Find_C2C:</b> <img src="https://img.shields.io/github/stars/thedhunju/Uni_Find_C2C?style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/thedhunju?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/thedhunju?label=Total%20Stars&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-size/thedhunju/Uni_Find_C2C?label=Repo%20Size&style=for-the-badge" alt="Repo Size"/>
+</p>
+
+### 🧠 Top Languages
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/thedhunju/Uni_Find_C2C?style=for-the-badge" alt="Top Language"/>
+  <img src="https://img.shields.io/github/languages/count/thedhunju?style=for-the-badge" alt="Languages Count"/>
 </p>
