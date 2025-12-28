@@ -33,13 +33,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/github/followers/thedhunju?label=Followers&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Total%20Stars-5-yellow?style=for-the-badge" alt="Total Stars"/>
-  <img src="https://img.shields.io/github/repo-size/thedhunju/Uni_Find_C2C?label=Repo%20Size&style=for-the-badge" alt="Repo Size"/>
-</p>
-
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-blue?style=for-the-badge" alt="Top Language"/>
-  <img src="https://img.shields.io/github/languages/count/thedhunju?style=for-the-badge" alt="Languages Count"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thedhunju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="Top Languages"/><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=thedhunju&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
