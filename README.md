@@ -33,17 +33,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/github/followers/thedhunju?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/thedhunju?label=Stars&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/repo-size/thedhunju?label=Repo%20Size&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/thedhunju?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/thedhunju?label=Stars&style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-size/thedhunju?label=Repo%20Size&style=for-the-badge" alt="Repo Size"/>
 </p>
 
-### 🧠 Most Used Languages (from public repos)
+### 🧠 Most Used Languages
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/thedhunju?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/languages/count/thedhunju?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/languages/top/thedhunju?style=for-the-badge" alt="Top Language"/>
+  <img src="https://img.shields.io/github/languages/count/thedhunju?style=for-the-badge" alt="Languages Count"/>
 </p>
 
 ---
 
-> These badges automatically update and **won’t break** if external deployments like Vercel are paused.
