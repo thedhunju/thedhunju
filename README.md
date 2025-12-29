@@ -36,10 +36,9 @@
 </div>
 
 ---
-
 ### 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedhunju&theme=dark" />
+<p align="center">
+
   <img src="https://nirzak-streak-stats.vercel.app/?user=thedhunju&theme=dark&hide_border=false" />
-</div>
+</p>
 
