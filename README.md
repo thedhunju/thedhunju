@@ -1,6 +1,7 @@
 <div align="center">
-  
-<h2><strong>HELLO WORLD (👋) It's me Pujan — a tech enthusiast who wants to excel in this tech realm.</strong></h2>
+
+<h2>Hey, I’m Dhunju 👋</h2>
+<p>Fueled by curiosity, coffee, and clean code (sometimes).</p>
 
 </div>
 
