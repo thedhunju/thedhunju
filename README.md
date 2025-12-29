@@ -36,14 +36,11 @@
 </div>
 
 ---
-
-<div align="center">
-
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=thedhunju&show_icons=true&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=thedhunju&theme=dark&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedhunju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="Top Languages"/>
+</p>
 
 ---
