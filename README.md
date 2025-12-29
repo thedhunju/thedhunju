@@ -6,12 +6,12 @@
 </div>
 
 ---
-
 <div align="center">
 
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/plasma_drift)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujan-shrestha-079b65398/)
+[![Discord](https://img.shields.io/badge/Discord-dhunju-%235865F2?style=flat&logo=discord&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
