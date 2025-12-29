@@ -40,11 +40,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-</div>
+
+
+---
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedhunju&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thedhunju&theme=dark&hide_border=false" />
-</p>
