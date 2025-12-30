@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/1LvGxvZ/man-city-banner.png" alt="Manchester City Banner" width="100%"/>
+<img src="https://cdn.openai.com/chatgpt/manchester-city-banner.png" alt="Manchester City Banner" width="100%"/>
 
 ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
 
