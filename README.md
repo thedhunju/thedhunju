@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=0,2,5,30&text=Hey,%20I’m%20Dhunju%20👋&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20|%20C%20/%20C++%20|%20Web%20Dev%20|%20Qt&descAlignY=65&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=0,2,5,30&text=Hey,%20I’m%20Dhunju%20👋&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35&desc=CS%20Student&descAlignY=65&descSize=16"/>
 
 ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
 
