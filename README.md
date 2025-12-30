@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hey,%20I’m%20Dhunju%20👋&desc=CS%20Student&fontSize=40&descSize=28&descAlignY=85&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=6CABDD,A5D8FF,E6F7FF"/>
+<img src="https://i.ibb.co/1LvGxvZ/man-city-banner.png" alt="Manchester City Banner" width="100%"/>
 
 ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
 
