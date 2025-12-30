@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=00F5FF&center=true&width=600&lines=Hey,+I’m+Dhunju+👋;CS+Student"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Hey,%20I’m%20Dhunju%20👋&desc=CS%20Student&fontSize=36&fontColor=00F5FF&animation=fadeIn&color=gradient&customColorList=0,2,5,30"/>
 
 ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
 
