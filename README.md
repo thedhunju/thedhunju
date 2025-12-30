@@ -1,6 +1,7 @@
 <div align="center">
 
-## Hey, I’m Dhunju 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Hey,%20I’m%20Dhunju%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 **CS Student | C / C++ | Web Dev | Qt**
 
 ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
