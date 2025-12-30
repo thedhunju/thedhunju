@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hey,%20I’m%20Dhunju%20👋&desc=CS%20Student&fontSize=40&descSize=28&descAlignY=85&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=6CABDD,1C75BC,D9F0FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hey,%20I’m%20Dhunju%20👋&desc=CS%20Student&fontSize=40&descSize=28&descAlignY=85&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=6CABDD,A5D8FF,E6F7FF"/>
 
 ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
 
