@@ -11,10 +11,10 @@
 <div align="center">
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23111111?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/plasma_drift)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujan-shrestha-079b65398/)
-[![Discord](https://img.shields.io/badge/Discord-%23111111?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_LINK)
-[![Email](https://img.shields.io/badge/Email-%23111111?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/plasma_drift)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pujan-shrestha-079b65398/)
+[<img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/YOUR_INVITE_LINK)
+[<img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:your-email@gmail.com)
 
 </div>
 
