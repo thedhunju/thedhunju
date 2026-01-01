@@ -50,14 +50,11 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=thedhunju&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=ffffff" alt="GitHub Stats" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=thedhunju&theme=dark&hide_border=true&background=0d1117&ring=6CABDD&fire=6CABDD&currStreakLabel=6CABDD" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&theme=dark&hide_border=true&layout=compact&langs_count=6&bg_color=0d1117&title_color=6CABDD&text_color=ffffff" alt="Top Languages" />
+![](https://github-readme-stats.vercel.app/api?username=thedhunju&theme=dark&hide_border=true&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=thedhunju&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thedhunju&theme=dark&hide_border=true&layout=compact&langs_count=6)
 
 </div>
-
 ---
 
 <div align="center">
