@@ -16,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/dhunju.)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pujandhunju@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=thedhunju&color=6CABDD&style=flat-square&label=Profile+Views)
+
 
 </div>
 
