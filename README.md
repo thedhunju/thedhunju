@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://cdn.openai.com/chatgpt/manchester-city-banner.png" alt="Manchester City Banner" width="100%"/>
-
+<img src="./assets/mcfc-banner.svg" alt="Manchester City Banner" width="100%"/>
 ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
-
 </div>
 
 ---
@@ -11,6 +8,7 @@
 <div align="center">
 
 ## 🌐 Socials
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/plasma_drift)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujan-shrestha-079b65398/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_LINK)
