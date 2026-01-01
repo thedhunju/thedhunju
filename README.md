@@ -70,9 +70,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💙 Thanks for visiting! Come on City! ⚽
-
-</div>
