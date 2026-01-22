@@ -1,9 +1,8 @@
 <div align="center">
-<img src="./assets/mcfc-banner.svg" alt="Manchester City Banner" width="100%"/>
-
-☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
-
-</div>
+  <img src="./assets/new-banner.png" alt="Profile Banner" width="100%" />
+  <br><br>
+  ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
+</div>>
 
 ---
 
