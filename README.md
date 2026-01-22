@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/new-banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/45ea1733-0834-4674-842f-a23e69a301e5">
   <br><br>
-  ☕ Fueled by curiosity, coffee, and clean code (sometimes). 💻
-</div>>
+
+</div>
 
 ---
 
